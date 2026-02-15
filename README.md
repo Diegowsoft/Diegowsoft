@@ -89,23 +89,12 @@ Cruzeiro do Sul — 2025-2027
 ✔ Desenvolvimento Web: HTML, CSS, JS, React, Node.js.  
 
 
-## 🧩 Projetos Relevantes  
-![GitHub Repositories](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
-
-
 ## 📫 Contato  
 Email: **zdiegofagundes@gmail.com**  
-LinkedIn: [diegowsoft/](https://www.linkedin.com/in/diegowsoft/)  
+LinkedIn: [Diegowsoft](https://www.linkedin.com/in/diegowsoft/)  
 GitHub: [Diegowsoft](https://github.com/Diegowsoft)  
 Status: **Online e Disponível para Projetos e vagas**  
 
 
-## ⚙️ Ultimos commits (30 dias)  
-![GitHub Commits](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=commits&days=30)
-
-
  Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
- 
- ![GitHub Repository](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=repo&repo=Diego Fagundes)
- 
  </div>
