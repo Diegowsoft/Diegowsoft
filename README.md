@@ -49,10 +49,6 @@ UNINTER - Centro Universitário Internacional — 2026-2028
 Cruzeiro do Sul — 2025-2027  
 
 
-## 🧩 Top Repositorios Relevantes
- ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=top-repos&maxRepos=3)
-
-
 ## 💼 Última Experiência Profissional   
 
 ## 1. Suporte Técnico — TOTVS 
