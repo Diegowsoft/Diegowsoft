@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Olá, eu sou Diego Fagundes 👋</h1>
-<h3 align="center">DevOps Júnior | CI/CD | Terraform | AWS Cloud Practitioner | TypeScript |</h3>
+<h3 align="center">DevOps Júnior | CI/CD | Terraform | AWS Cloud Practitioner | Python | Flask | TypeScript |</h3>
 
 <div align="center">
   
