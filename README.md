@@ -8,8 +8,6 @@
 
 <div align="center">
   
-## 🛡️ Ranking Github Stats
-![GitHub Stats](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=stats&borderType=water)
 
 
 ## 🛠️ Stack & Tecnologias  
@@ -37,9 +35,6 @@
 </p>
 
 
-## 📊 Principais Linguagens  
-![GitHub Languages](https://githubstats.com.br/api/stats?username=Diego%20Fagundes&theme=github_dark&showBorder=true&language=pt&type=languages&borderType=water)
-
 
 ## 🎓 Formação Acadêmica & Certificações  
 **Redes de Computadores**  
@@ -49,7 +44,7 @@ UNINTER - Centro Universitário Internacional — 2026-2028
 Cruzeiro do Sul — 2025-2027  
 
 
-## 💼 Última Experiência Profissional   
+## 💼 Últimas Experiências   
 
 ## 1. Suporte Técnico — TOTVS 
 
@@ -89,7 +84,7 @@ Cruzeiro do Sul — 2025-2027
 Email: **zdiegofagundes@gmail.com**  
 LinkedIn: [Diegowsoft](https://www.linkedin.com/in/diegowsoft/)  
 GitHub: [Diegowsoft](https://github.com/Diegowsoft)  
-Status: **Online e Disponível para Projetos e vagas**  
+Status: **Disponível para projetos e vagas em tech**  
 
 
  Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
